@@ -5,7 +5,7 @@ Instead of manually reading hundreds or thousands of responses, users can use SA
 
 > **SAMOSA does not replace human decision-makers.** Rather, it accelerates the analysis process so users can focus on interpretation, discussion, and action.
 
-# Problem
+## Problem
 Organizations often collect feedback through surveys, suggestion boxes, forms, social media, or public consultations.
 
 However, analyzing large volumes of qualitative responses is challenging because:
@@ -14,7 +14,7 @@ However, analyzing large volumes of qualitative responses is challenging because
 - Reporting requires effort and time
 - Decision-makers need concise and reliable insights
 
-# Solution
+## Solution
 SAMOSA uses Artificial Intelligence and Natural Language Processing (NLP) to automatically process feedback and generate structured analysis. The platform helps users to:
 - Summarize large amounts of feedback
 - Detect common topics and issues
@@ -22,8 +22,8 @@ SAMOSA uses Artificial Intelligence and Natural Language Processing (NLP) to aut
 - Generate statistics and visualizations
 - Produce evaluation reports
 
-# Current Status
+## Current Status
 Early MVP Development
 
-# Author
+## Author
 Developed by Lesharo Bladen Setiawan
